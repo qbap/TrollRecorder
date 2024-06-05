@@ -21,7 +21,7 @@ Popular jailbreaks are also supported. Get [TrollRecorder JB](https://havoc.app/
 #### About Other Installation Methods
 
 - There're no additional support for RootHide. Use TrollStore version instead.
-- [eSign](https://twitter.com/EsignPatch) or [LiveContainer](https://github.com/khanhduytran0/LiveContainer) are not supported due to their own limitations.
+- [eSign](https://esign.yyyue.xyz) or [LiveContainer](https://github.com/khanhduytran0/LiveContainer) are not supported due to their own limitations.
 
 ## Pro Version
 
